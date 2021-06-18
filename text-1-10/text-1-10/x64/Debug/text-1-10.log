@@ -1,0 +1,6 @@
+﻿  add.c
+  text-1-10.c
+d:\visual c++练习程序项目\0001\text-1-10\text-1-10\text-1-10.c(134): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+  d:\visual c++练习程序项目\0001\text-1-10\text-1-10\text-1-10.c(134): note: 请考虑在格式字符串中使用“%zd”
+  正在生成代码...
+  text-1-10.vcxproj -> D:\Visual C++练习程序项目\0001\text-1-10\x64\Debug\text-1-10.exe
